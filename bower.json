@@ -4,14 +4,14 @@
   "description": "Tabbed slidebox on Ionic platform",
   "main": [
     "tabbedSlideBox/tabSlideBox.js",
-    "tabbedSlideBox/tabSlideBox.css",
+    "tabbedSlideBox/tabSlideBox.css"
   ],
   "moduleType": [
     "globals"
   ],
   "keywords": [
     "tabbed",
-    "slidebox",
+    "slidebox"
   ],
   "authors": [
     "Saravmajestic"
