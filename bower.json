@@ -1,0 +1,26 @@
+{
+  "name": "ionic-tabbed-slidebox",
+  "version": "0.0.1",
+  "description": "Tabbed slidebox on Ionic platform",
+  "main": [
+    "tabbedSlideBox/tabSlideBox.js",
+    "tabbedSlideBox/tabSlideBox.css",
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "tabbed",
+    "slidebox",
+  ],
+  "authors": [
+    "Saravmajestic"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
